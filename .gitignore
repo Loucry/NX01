@@ -1,31 +1,35 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
-
-### STS ###
-.apt_generated
+# Eclipse
 .classpath
-.factorypath
 .project
-.settings
-.springBeans
-.sts4-cache
+.settings/
+.tomcatplugin
 
-### IntelliJ IDEA ###
-.idea
-*.iws
+# Intellij
+!.idea/
+.idea/*
+!.idea/runConfigurations/
 *.iml
+*.iws
 *.ipr
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
+# Netbeans
+nb-configuration.xml
+nbactions.xml
 
-### VS Code ###
-.vscode/
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#Application
+/logs
+dtree_*.log
+
+#Test
+test-output/
+
+# FTP folder
+ftp-inbound/
+
