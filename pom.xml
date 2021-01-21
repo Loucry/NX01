@@ -22,7 +22,7 @@
 		<jackson-jaxrs-base.version>2.8.5</jackson-jaxrs-base.version>
 		<jackson-jaxrs-json-provider.version>2.8.5</jackson-jaxrs-json-provider.version>
 		<jackson-annotations.version>2.8.5</jackson-annotations.version>
-		<jackson-databind.version>2.8.5</jackson-databind.version>
+		<jackson-databind.version>2.9.10.7</jackson-databind.version>
 		<jackson-dataformat-xml.version>2.8.5</jackson-dataformat-xml.version>
         <!-- HIBERNATE -->
         <hibernate-core.version>5.1.17.Final</hibernate-core.version>
