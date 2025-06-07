@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
 		<mariadb.version>1.4.4</mariadb.version>
 		<!-- Jackson -->
-		<jackson-core.version>2.8.5</jackson-core.version>
+		<jackson-core.version>2.13.0</jackson-core.version>
 		<jackson-jaxrs-base.version>2.8.5</jackson-jaxrs-base.version>
 		<jackson-jaxrs-json-provider.version>2.8.5</jackson-jaxrs-json-provider.version>
 		<jackson-annotations.version>2.8.5</jackson-annotations.version>
